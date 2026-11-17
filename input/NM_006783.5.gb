@@ -1,0 +1,251 @@
+LOCUS       NM_006783               1817 bp    mRNA    linear   PRI 10-SEP-2026
+DEFINITION  Homo sapiens gap junction protein beta 6 (GJB6), transcript variant
+            3, mRNA.
+ACCESSION   NM_006783
+VERSION     NM_006783.5
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1817)
+  AUTHORS   O'Shaughnessy,E.M., Duffy,W., Garcia-Vega,L., Hussey,K.,
+            Burden,A.D., Zamiri,M. and Martin,P.E.
+  TITLE     Dysregulation of Connexin Expression Plays a Pivotal Role in
+            Psoriasis
+  JOURNAL   Int J Mol Sci 22 (11), 6060 (2021)
+   PUBMED   34199748
+  REMARK    GeneRIF: Dysregulation of Connexin Expression Plays a Pivotal Role
+            in Psoriasis.
+REFERENCE   2  (bases 1 to 1817)
+  AUTHORS   Buonfiglio,P., Bruque,C.D., Luce,L., Giliberto,F., Lotersztein,V.,
+            Menazzi,S., Paoli,B., Elgoyhen,A.B. and Dalamon,V.
+  TITLE     GJB2 and GJB6 Genetic Variant Curation in an Argentinean
+            Non-Syndromic Hearing-Impaired Cohort
+  JOURNAL   Genes (Basel) 11 (10), 1233 (2020)
+   PUBMED   33096615
+  REMARK    GeneRIF: GJB2 and GJB6 Genetic Variant Curation in an Argentinean
+            Non-Syndromic Hearing-Impaired Cohort.
+REFERENCE   3  (bases 1 to 1817)
+  AUTHORS   Zhan,Y., Luo,S., Pi,Z. and Zhang,G.
+  TITLE     A recurrent mutation of GJB6 in a big Chinese family with Hidrotic
+            ectodermal dysplasia
+  JOURNAL   Hereditas 157 (1), 34 (2020)
+   PUBMED   32843087
+  REMARK    GeneRIF: A recurrent mutation of GJB6 in a big Chinese family with
+            Hidrotic ectodermal dysplasia.
+REFERENCE   4  (bases 1 to 1817)
+  AUTHORS   Eggena,M., Targan,S.R., Iwanczyk,L., Vidrich,A., Gordon,L.K. and
+            Braun,J.
+  TITLE     Phage display cloning and characterization of an immunogenetic
+            marker (perinuclear anti-neutrophil cytoplasmic antibody) in
+            ulcerative colitis
+  JOURNAL   J Immunol 156 (10), 4005-4011 (1996)
+   PUBMED   8621942
+REFERENCE   5  (bases 1 to 1817)
+  AUTHORS   Kibar,Z., Der Kaloustian,V.M., Brais,B., Hani,V., Fraser,F.C. and
+            Rouleau,G.A.
+  TITLE     The gene responsible for Clouston hidrotic ectodermal dysplasia
+            maps to the pericentromeric region of chromosome 13q
+  JOURNAL   Hum Mol Genet 5 (4), 543-547 (1996)
+   PUBMED   8845850
+REFERENCE   6  (bases 1 to 1817)
+  AUTHORS   Stoppini,M., Bellotti,V., Negri,A., Merlini,G., Garver,F. and
+            Ferri,G.
+  TITLE     Characterization of the two unique human anti-flavin monoclonal
+            immunoglobulins
+  JOURNAL   Eur J Biochem 228 (3), 886-893 (1995)
+   PUBMED   7737190
+REFERENCE   7  (bases 1 to 1817)
+  AUTHORS   Smith,R.J.H. and Ranum,P.T.
+  TITLE     Nonsyndromic Hearing Loss and Deafness, DFNA3 - RETIRED CHAPTER,
+            FOR HISTORICAL REFERENCE ONLY
+  JOURNAL   (in) Adam MP, Bick S, Mirzaa GM, Wallace SE and Amemiya A (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   20301708
+REFERENCE   8  (bases 1 to 1817)
+  AUTHORS   Shearer,A.E., Hildebrand,M.S., Odell,A.M. and Smith,R.J.H.
+  TITLE     Genetic Hearing Loss Overview
+  JOURNAL   (in) Adam MP, Bick S, Mirzaa GM, Wallace SE and Amemiya A (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   20301607
+REFERENCE   9  (bases 1 to 1817)
+  AUTHORS   Smith,R.J.H., Azaiez,H. and Booth,K.
+  TITLE     GJB2-Related Autosomal Recessive Nonsyndromic Hearing Loss
+  JOURNAL   (in) Adam MP, Bick S, Mirzaa GM, Wallace SE and Amemiya A (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   20301449
+REFERENCE   10 (bases 1 to 1817)
+  AUTHORS   Mellerio,J. and Greenblatt,D.
+  TITLE     Hidrotic Ectodermal Dysplasia 2
+  JOURNAL   (in) Adam MP, Bick S, Mirzaa GM, Wallace SE and Amemiya A (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   20301379
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AK289592.1, BE181310.1 and
+            BC038934.1.
+            
+            On Aug 13, 2020 this sequence version replaced NM_006783.4.
+            
+            Summary: Gap junctions allow the transport of ions and metabolites
+            between the cytoplasm of adjacent cells. They are formed by two
+            hemichannels, made up of six connexin proteins assembled in groups.
+            Each connexin protein has four transmembrane segments, two
+            extracellular loops, a cytoplasmic loop formed between the two
+            inner transmembrane segments, and the N- and C-terminus both being
+            in the cytoplasm. The specificity of the gap junction is determined
+            by which connexin proteins comprise the hemichannel. In the past,
+            connexin protein names were based on their molecular weight,
+            however the new nomenclature uses sequential numbers based on which
+            form (alpha or beta) of the gap junction is present. This gene
+            encodes one of the connexin proteins. Mutations in this gene have
+            been found in some forms of deafness and in some families with
+            hidrotic ectodermal dysplasia. [provided by RefSeq, Jul 2008].
+            
+            Transcript Variant: This variant (3) differs in the 5' UTR,
+            compared to variant 1. All variants encode the same protein.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: BC038934.1, SRR3476690.577647.1
+                                           [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA2145743, SAMEA2145893
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-1136              AK289592.1         4-1139
+            1137-1527           BE181310.1         32-422
+            1528-1817           BC038934.1         1478-1767
+FEATURES             Location/Qualifiers
+     source          1..1817
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="13"
+                     /map="13q12.11"
+     gene            1..1817
+                     /gene="GJB6"
+                     /gene_synonym="CX30; DFNA3; DFNA3B; DFNB1B; ECTD2; ED2;
+                     EDH; HED; HED2"
+                     /note="gap junction protein beta 6"
+                     /db_xref="GeneID:10804"
+                     /db_xref="HGNC:HGNC:4288"
+                     /db_xref="MIM:604418"
+     exon            1..113
+                     /gene="GJB6"
+                     /gene_synonym="CX30; DFNA3; DFNA3B; DFNB1B; ECTD2; ED2;
+                     EDH; HED; HED2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            114..283
+                     /gene="GJB6"
+                     /gene_synonym="CX30; DFNA3; DFNA3B; DFNB1B; ECTD2; ED2;
+                     EDH; HED; HED2"
+                     /inference="alignment:Splign:2.1.0"
+     exon            284..1817
+                     /gene="GJB6"
+                     /gene_synonym="CX30; DFNA3; DFNA3B; DFNB1B; ECTD2; ED2;
+                     EDH; HED; HED2"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    287..289
+                     /gene="GJB6"
+                     /gene_synonym="CX30; DFNA3; DFNA3B; DFNB1B; ECTD2; ED2;
+                     EDH; HED; HED2"
+                     /note="upstream in-frame stop codon"
+     CDS             299..1084
+                     /gene="GJB6"
+                     /gene_synonym="CX30; DFNA3; DFNA3B; DFNB1B; ECTD2; ED2;
+                     EDH; HED; HED2"
+                     /note="ectodermal dysplasia 2, hidrotic (Clouston
+                     syndrome); connexin 30; gap junction protein, beta 6,
+                     30kDa"
+                     /codon_start=1
+                     /product="gap junction beta-6 protein"
+                     /protein_id="NP_006774.2"
+                     /db_xref="CCDS:CCDS9291.1"
+                     /db_xref="GeneID:10804"
+                     /db_xref="HGNC:HGNC:4288"
+                     /db_xref="MIM:604418"
+                     /translation="MDWGTLHTFIGGVNKHSTSIGKVWITVIFIFRVMILVVAAQEVW
+                     GDEQEDFVCNTLQPGCKNVCYDHFFPVSHIRLWALQLIFVSTPALLVAMHVAYYRHET
+                     TRKFRRGEKRNDFKDIEDIKKQKVRIEGSLWWTYTSSIFFRIIFEAAFMYVFYFLYNG
+                     YHLPWVLKCGIDPCPNLVDCFISRPTEKTVFTIFMISASVICMLLNVAELCYLLLKVC
+                     FRRSKRAQTQKNHPNHALKESKQNEMNELISDSGQNAITGFPS"
+     misc_feature    365..433
+                     /gene="GJB6"
+                     /gene_synonym="CX30; DFNA3; DFNA3B; DFNB1B; ECTD2; ED2;
+                     EDH; HED; HED2"
+                     /note="propagated from UniProtKB/Swiss-Prot (O95452.2);
+                     transmembrane region"
+     misc_feature    524..592
+                     /gene="GJB6"
+                     /gene_synonym="CX30; DFNA3; DFNA3B; DFNB1B; ECTD2; ED2;
+                     EDH; HED; HED2"
+                     /note="propagated from UniProtKB/Swiss-Prot (O95452.2);
+                     transmembrane region"
+     misc_feature    692..760
+                     /gene="GJB6"
+                     /gene_synonym="CX30; DFNA3; DFNA3B; DFNB1B; ECTD2; ED2;
+                     EDH; HED; HED2"
+                     /note="propagated from UniProtKB/Swiss-Prot (O95452.2);
+                     transmembrane region"
+     misc_feature    875..943
+                     /gene="GJB6"
+                     /gene_synonym="CX30; DFNA3; DFNA3B; DFNB1B; ECTD2; ED2;
+                     EDH; HED; HED2"
+                     /note="propagated from UniProtKB/Swiss-Prot (O95452.2);
+                     transmembrane region"
+     regulatory      1786..1791
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="GJB6"
+                     /gene_synonym="CX30; DFNA3; DFNA3B; DFNB1B; ECTD2; ED2;
+                     EDH; HED; HED2"
+                     /note="hexamer: AATAAA"
+     polyA_site      1817
+                     /gene="GJB6"
+                     /gene_synonym="CX30; DFNA3; DFNA3B; DFNB1B; ECTD2; ED2;
+                     EDH; HED; HED2"
+                     /note="major polyA site"
+ORIGIN      
+        1 acataactgg gggtgtggag agcgcctcat tgccactgca gtgactaaag ctgggaagac
+       61 gctggtcagt tcacctgccc cactggttgt tttttaaaca aattctgata caggcgacat
+      121 cctcactgac cgagcaaaga ttgacattcg tatcatcact gtgcaccatt ggcttctagg
+      181 cactccagtg gggtaggaga aggaggtctg aaaccctcgc agagggatct tgccctcatt
+      241 ctttgggtct gaaacactgg cagtcgttgg aaacaggact cagggataaa ccagcgcaat
+      301 ggattggggg acgctgcaca ctttcatcgg gggtgtcaac aaacactcca ccagcatcgg
+      361 gaaggtgtgg atcacagtca tctttatttt ccgagtcatg atcctcgtgg tggctgccca
+      421 ggaagtgtgg ggtgacgagc aagaggactt cgtctgcaac acactgcaac cgggatgcaa
+      481 aaatgtgtgc tatgaccact ttttcccggt gtcccacatc cggctgtggg ccctccagct
+      541 gatcttcgtc tccaccccag cgctgctggt ggccatgcat gtggcctact acaggcacga
+      601 aaccactcgc aagttcaggc gaggagagaa gaggaatgat ttcaaagaca tagaggacat
+      661 taaaaagcag aaggttcgga tagaggggtc gctgtggtgg acgtacacca gcagcatctt
+      721 tttccgaatc atctttgaag cagcctttat gtatgtgttt tacttccttt acaatgggta
+      781 ccacctgccc tgggtgttga aatgtgggat tgacccctgc cccaaccttg ttgactgctt
+      841 tatttctagg ccaacagaga agaccgtgtt taccattttt atgatttctg cgtctgtgat
+      901 ttgcatgctg cttaacgtgg cagagttgtg ctacctgctg ctgaaagtgt gttttaggag
+      961 atcaaagaga gcacagacgc aaaaaaatca ccccaatcat gccctaaagg agagtaagca
+     1021 gaatgaaatg aatgagctga tttcagatag tggtcaaaat gcaatcacag gtttcccaag
+     1081 ctaaacattt caaggtaaaa tgtagctgcg tcataaggag acttctgtct tctccagaag
+     1141 gcaataccaa cctgaaagtt ccttctgtag cctgaagagt ttgtaaatga ctttcataat
+     1201 aaatagacac ttgagttaac tttttgtagg atacttgctc cattcataca caacgtaatc
+     1261 aaatatgtgg tccatctctg aaaacaagag actgcttgac aaaggagcat tgcagtcact
+     1321 ttgacaggtt ccttttaagt ggactctctg acaaagtggg tactttctga aaatttatat
+     1381 aactgttgtt gataaggaac atttatccag gaattgatac gtttattagg aaaagatatt
+     1441 tttataggct tggatgtttt tagttctgac tttgaattta tataaagtat ttttataatg
+     1501 actggtcttc cttacctgga aaaacatgcg atgttagttt tagaattaca ccacaagtat
+     1561 ctaaatttgg aacttacaaa gggtctatct tgtaaatatt gttttgcatt gtctgttggc
+     1621 aaatttgtga actgtcatga tacgcttaag gtggaaagtg ttcattgcac aatatatttt
+     1681 tactgctttc tgaatgtaga cggaacagtg tggaagcaga aggctttttt aactcatccg
+     1741 tttgccaatc attgcaaaca actgaaatgt ggatgtgatt gcctcaataa agctcgtccc
+     1801 cattgcttaa gccttca
+//
+

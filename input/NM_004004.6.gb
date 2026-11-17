@@ -1,0 +1,267 @@
+LOCUS       NM_004004               2290 bp    mRNA    linear   PRI 09-SEP-2026
+DEFINITION  Homo sapiens gap junction protein beta 2 (GJB2), transcript variant
+            1, mRNA.
+ACCESSION   NM_004004
+VERSION     NM_004004.6
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2290)
+  AUTHORS   Dou,M.M., Guan,J., Zhou,R., Li,J., Lan,L. and Wang,Q.J.
+  TITLE     [Auditory characteristics and disease progression trends of
+            patients with common recessive deafness genes GJB2 and SLC26A4]
+  JOURNAL   Zhonghua Yi Xue Za Zhi 104 (38), 3600-3603 (2024)
+   PUBMED   39414589
+  REMARK    GeneRIF: [Auditory characteristics and disease progression trends
+            of patients with common recessive deafness genes GJB2 and SLC26A4].
+REFERENCE   2  (bases 1 to 2290)
+  AUTHORS   Liu,H., Li,X., Zhang,C., Hao,X., Cao,Y., Wang,Y., Zhuang,H., Yu,N.,
+            Huang,T., Liu,C., Cao,H., Lu,Z., Song,J., Liu,L., Wang,H., Li,Z.
+            and Tang,W.
+  TITLE     GJB2 Promotes HCC Progression by Activating Glycolysis Through
+            Cytoplasmic Translocation and Generating a Suppressive Tumor
+            Microenvironment Based on Single Cell RNA Sequencing
+  JOURNAL   Adv Sci (Weinh) 11 (39), e2402115 (2024)
+   PUBMED   39162005
+  REMARK    GeneRIF: GJB2 Promotes HCC Progression by Activating Glycolysis
+            Through Cytoplasmic Translocation and Generating a Suppressive
+            Tumor Microenvironment Based on Single Cell RNA Sequencing.
+REFERENCE   3  (bases 1 to 2290)
+  AUTHORS   Brotherton,D.H., Nijjar,S., Savva,C.G., Dale,N. and Cameron,A.D.
+  TITLE     Structures of wild-type and a constitutively closed mutant of
+            connexin26 shed light on channel regulation by CO2
+  JOURNAL   Elife 13, 93686 (2024)
+   PUBMED   38829031
+  REMARK    GeneRIF: Structures of wild-type and a constitutively closed mutant
+            of connexin26 shed light on channel regulation by CO2.
+REFERENCE   4  (bases 1 to 2290)
+  AUTHORS   Baux,D., Faugere,V., Larrieu,L., Le Guedard-Mereuze,S., Hamroun,D.,
+            Beroud,C., Malcolm,S., Claustres,M. and Roux,A.F.
+  TITLE     UMD-USHbases: a comprehensive set of databases to record and
+            analyse pathogenic mutations and unclassified variants in seven
+            Usher syndrome causing genes
+  JOURNAL   Hum Mutat 29 (8), E76-E87 (2008)
+   PUBMED   18484607
+REFERENCE   5  (bases 1 to 2290)
+  AUTHORS   Smith,R.J.H. and Ranum,P.T.
+  TITLE     Nonsyndromic Hearing Loss and Deafness, DFNA3 - RETIRED CHAPTER,
+            FOR HISTORICAL REFERENCE ONLY
+  JOURNAL   (in) Adam MP, Bick S, Mirzaa GM, Wallace SE and Amemiya A (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   20301708
+REFERENCE   6  (bases 1 to 2290)
+  AUTHORS   Shearer,A.E., Hildebrand,M.S., Odell,A.M. and Smith,R.J.H.
+  TITLE     Genetic Hearing Loss Overview
+  JOURNAL   (in) Adam MP, Bick S, Mirzaa GM, Wallace SE and Amemiya A (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   20301607
+REFERENCE   7  (bases 1 to 2290)
+  AUTHORS   Smith,R.J.H., Azaiez,H. and Booth,K.
+  TITLE     GJB2-Related Autosomal Recessive Nonsyndromic Hearing Loss
+  JOURNAL   (in) Adam MP, Bick S, Mirzaa GM, Wallace SE and Amemiya A (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   20301449
+REFERENCE   8  (bases 1 to 2290)
+  AUTHORS   Lee,S.W., Tomasetto,C., Paul,D., Keyomarsi,K. and Sager,R.
+  TITLE     Transcriptional downregulation of gap-junction proteins blocks
+            junctional communication in human mammary tumor cell lines
+  JOURNAL   J Cell Biol 118 (5), 1213-1221 (1992)
+   PUBMED   1324944
+REFERENCE   9  (bases 1 to 2290)
+  AUTHORS   Fishman,G.I., Moreno,A.P., Spray,D.C. and Leinwand,L.A.
+  TITLE     Functional analysis of human cardiac gap junction channel mutants
+  JOURNAL   Proc Natl Acad Sci U S A 88 (9), 3525-3529 (1991)
+   PUBMED   1850831
+REFERENCE   10 (bases 1 to 2290)
+  AUTHORS   Verbov,J.
+  TITLE     Palmoplantar keratoderma, deafness and atopy
+  JOURNAL   Br J Dermatol 116 (6), 881-882 (1987)
+   PUBMED   2956987
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from DA287424.1, BC017048.1,
+            BC071703.1 and AA962716.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            
+            On Nov 23, 2018 this sequence version replaced NM_004004.5.
+            
+            Summary: This gene encodes a member of the gap junction protein
+            family (gap junction beta 2) but is more commonly known as connexin
+            26. The gap junctions were first characterized by electron
+            microscopy as regionally specialized structures on plasma membranes
+            of contacting adherent cells. These structures were shown to
+            consist of cell-to-cell channels that facilitate the transfer of
+            ions and small molecules between cells. Connexins form hexameric
+            channels in the plasma membrane which regulate passage of ions and
+            small molecules between the cell and its environment or, when
+            joined with another cell, form a dodecameric intercellular gap
+            junction channel. The connexin proteins are grouped into alpha,
+            beta, and gamma subfamilies. Mutations in this gene are responsible
+            for as much as 50% of pre-lingual, recessive deafness. [provided by
+            RefSeq, Mar 2026].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: ERR279855.3065.1,
+                                           SRR1660805.117664.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1966682, SAMEA1968189
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000382848.5/ ENSP00000372299.4
+            RefSeq Select criteria :: based on conservation, expression,
+                                      longest protein
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-40                DA287424.1         73-112
+            41-942              BC017048.1         1-902
+            943-1925            BC071703.1         909-1891
+            1926-2290           AA962716.1         2-366               c
+FEATURES             Location/Qualifiers
+     source          1..2290
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="13"
+                     /map="13q12.11"
+     gene            1..2290
+                     /gene="GJB2"
+                     /gene_synonym="BAPS; CX26; DFNA3; DFNA3A; DFNB1; DFNB1A;
+                     HID; KID; NSRD1; PPK"
+                     /note="gap junction protein beta 2"
+                     /db_xref="GeneID:2706"
+                     /db_xref="HGNC:HGNC:4284"
+                     /db_xref="MIM:121011"
+     exon            1..156
+                     /gene="GJB2"
+                     /gene_synonym="BAPS; CX26; DFNA3; DFNA3A; DFNB1; DFNB1A;
+                     HID; KID; NSRD1; PPK"
+                     /inference="alignment:Splign:2.1.0"
+     exon            157..2290
+                     /gene="GJB2"
+                     /gene_synonym="BAPS; CX26; DFNA3; DFNA3A; DFNB1; DFNB1A;
+                     HID; KID; NSRD1; PPK"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    173..175
+                     /gene="GJB2"
+                     /gene_synonym="BAPS; CX26; DFNA3; DFNA3A; DFNB1; DFNB1A;
+                     HID; KID; NSRD1; PPK"
+                     /note="upstream in-frame stop codon"
+     CDS             179..859
+                     /gene="GJB2"
+                     /gene_synonym="BAPS; CX26; DFNA3; DFNA3A; DFNB1; DFNB1A;
+                     HID; KID; NSRD1; PPK"
+                     /note="connexin 26; mutant gap junction beta 2 protein;
+                     gap junction beta 2 proteinc; mutant gap junction protein
+                     beta 2; gap junction protein, beta 2, 26kDa"
+                     /codon_start=1
+                     /product="gap junction beta-2 protein"
+                     /protein_id="NP_003995.2"
+                     /db_xref="CCDS:CCDS9290.1"
+                     /db_xref="GeneID:2706"
+                     /db_xref="HGNC:HGNC:4284"
+                     /db_xref="MIM:121011"
+                     /translation="MDWGTLQTILGGVNKHSTSIGKIWLTVLFIFRIMILVVAAKEVW
+                     GDEQADFVCNTLQPGCKNVCYDHYFPISHIRLWALQLIFVSTPALLVAMHVAYRRHEK
+                     KRKFIKGEIKSEFKDIEEIKTQKVRIEGSLWWTYTSSIFFRVIFEAAFMYVFYVMYDG
+                     FSMQRLVKCNAWPCPNTVDCFVSRPTEKTVFTVFMIAVSGICILLNVTELCYLLIRYC
+                     SGKSKKPV"
+     misc_feature    239..298
+                     /gene="GJB2"
+                     /gene_synonym="BAPS; CX26; DFNA3; DFNA3A; DFNB1; DFNB1A;
+                     HID; KID; NSRD1; PPK"
+                     /note="propagated from UniProtKB/Swiss-Prot (P29033.3);
+                     transmembrane region"
+     misc_feature    398..460
+                     /gene="GJB2"
+                     /gene_synonym="BAPS; CX26; DFNA3; DFNA3A; DFNB1; DFNB1A;
+                     HID; KID; NSRD1; PPK"
+                     /note="propagated from UniProtKB/Swiss-Prot (P29033.3);
+                     transmembrane region"
+     misc_feature    584..646
+                     /gene="GJB2"
+                     /gene_synonym="BAPS; CX26; DFNA3; DFNA3A; DFNB1; DFNB1A;
+                     HID; KID; NSRD1; PPK"
+                     /note="propagated from UniProtKB/Swiss-Prot (P29033.3);
+                     transmembrane region"
+     misc_feature    746..808
+                     /gene="GJB2"
+                     /gene_synonym="BAPS; CX26; DFNA3; DFNA3A; DFNB1; DFNB1A;
+                     HID; KID; NSRD1; PPK"
+                     /note="propagated from UniProtKB/Swiss-Prot (P29033.3);
+                     transmembrane region"
+     regulatory      1934..1939
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="GJB2"
+                     /gene_synonym="BAPS; CX26; DFNA3; DFNA3A; DFNB1; DFNB1A;
+                     HID; KID; NSRD1; PPK"
+                     /note="hexamer: ATTAAA"
+     polyA_site      1962
+                     /gene="GJB2"
+                     /gene_synonym="BAPS; CX26; DFNA3; DFNA3A; DFNB1; DFNB1A;
+                     HID; KID; NSRD1; PPK"
+                     /note="major polyA site"
+     regulatory      2272..2277
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="GJB2"
+                     /gene_synonym="BAPS; CX26; DFNA3; DFNA3A; DFNB1; DFNB1A;
+                     HID; KID; NSRD1; PPK"
+                     /note="hexamer: AATATA"
+     polyA_site      2290
+                     /gene="GJB2"
+                     /gene_synonym="BAPS; CX26; DFNA3; DFNA3A; DFNB1; DFNB1A;
+                     HID; KID; NSRD1; PPK"
+                     /note="major polyA site"
+ORIGIN      
+        1 gttgcggccc cgcagcgccc gcgcgctcct ctccccgact cggagcccct cggcggcgcc
+       61 cggcccagga cccgcctagg agcgcaggag ccccagcgca gagaccccaa cgccgagacc
+      121 cccgccccgg ccccgccgcg cttcctcccg acgcagagca aaccgcccag agtagaagat
+      181 ggattggggc acgctgcaga cgatcctggg gggtgtgaac aaacactcca ccagcattgg
+      241 aaagatctgg ctcaccgtcc tcttcatttt tcgcattatg atcctcgttg tggctgcaaa
+      301 ggaggtgtgg ggagatgagc aggccgactt tgtctgcaac accctgcagc caggctgcaa
+      361 gaacgtgtgc tacgatcact acttccccat ctcccacatc cggctatggg ccctgcagct
+      421 gatcttcgtg tccacgccag cgctcctagt ggccatgcac gtggcctacc ggagacatga
+      481 gaagaagagg aagttcatca agggggagat aaagagtgaa tttaaggaca tcgaggagat
+      541 caaaacccag aaggtccgca tcgaaggctc cctgtggtgg acctacacaa gcagcatctt
+      601 cttccgggtc atcttcgaag ccgccttcat gtacgtcttc tatgtcatgt acgacggctt
+      661 ctccatgcag cggctggtga agtgcaacgc ctggccttgt cccaacactg tggactgctt
+      721 tgtgtcccgg cccacggaga agactgtctt cacagtgttc atgattgcag tgtctggaat
+      781 ttgcatcctg ctgaatgtca ctgaattgtg ttatttgcta attagatatt gttctgggaa
+      841 gtcaaaaaag ccagtttaac gcattgccca gttgttagat taagaaatag acagcatgag
+      901 agggatgagg caacccgtgc tcagctgtca aggctcagtc gctagcattt cccaacacaa
+      961 agattctgac cttaaatgca accatttgaa acccctgtag gcctcaggtg aaactccaga
+     1021 tgccacaatg gagctctgct cccctaaagc ctcaaaacaa aggcctaatt ctatgcctgt
+     1081 cttaattttc tttcacttaa gttagttcca ctgagacccc aggctgttag gggttattgg
+     1141 tgtaaggtac tttcatattt taaacagagg atatcggcat ttgtttcttt ctctgaggac
+     1201 aagagaaaaa agccaggttc cacagaggac acagagaagg tttgggtgtc ctcctggggt
+     1261 tctttttgcc aactttcccc acgttaaagg tgaacattgg ttctttcatt tgctttggaa
+     1321 gttttaatct ctaacagtgg acaaagttac cagtgcctta aactctgtta cactttttgg
+     1381 aagtgaaaac tttgtagtat gataggttat tttgatgtaa agatgttctg gataccatta
+     1441 tatgttcccc ctgtttcaga ggctcagatt gtaatatgta aatggtatgt cattcgctac
+     1501 tatgatttaa tttgaaatat ggtcttttgg ttatgaatac tttgcagcac agctgagagg
+     1561 ctgtctgttg tattcattgt ggtcatagca cctaacaaca ttgtagcctc aatcgagtga
+     1621 gacagactag aagttcctag tgatggctta tgatagcaaa tggcctcatg tcaaatattt
+     1681 agatgtaatt ttgtgtaaga aatacagact ggatgtacca ccaactacta cctgtaatga
+     1741 caggcctgtc caacacatct cccttttcca tgactgtggt agccagcatc ggaaagaacg
+     1801 ctgatttaaa gaggtcgctt gggaatttta ttgacacagt accatttaat ggggaggaca
+     1861 aaatggggca ggggagggag aagtttctgt cgttaaaaac agatttggaa agactggact
+     1921 ctaaagtctg ttgattaaag atgagctttg tctacttcaa aagtttgttt gcttacccct
+     1981 tcagcctcca attttttaag tgaaaatata gctaataaca tgtgaaaaga atagaagcta
+     2041 aggtttagat aaatattgag cagatctata ggaagattga acctgaatat tgccattatg
+     2101 cttgacatgg tttccaaaaa atggtactcc acatatttca gtgagggtaa gtattttcct
+     2161 gttgtcaaga atagcattgt aaaagcattt tgtaataata aagaatagct ttaatgatat
+     2221 gcttgtaact aaaataattt tgtaatgtat caaatacatt taaaacatta aaatataatc
+     2281 tctataataa
+//
+

@@ -1,0 +1,488 @@
+gene,codon_index,human_codon,ancestral_codon_hc,parsimony_codon,ancestral_codon,ancestral_source,human_derived
+GJB2,1,ATG,,ATG,ATG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,2,GAT,,GAT,GAT,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,3,TGG,,TGG,TGG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,4,GGC,,GGC,GGC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,5,ACG,,,,,False
+GJB2,6,CTG,,CTG,CTG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,7,CAG,,CAG,CAG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,8,ACG,,ACG,ACG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,9,ATC,,ATC,ATC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,10,CTG,,CTG,CTG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,11,GGG,,GGG,GGG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,12,GGT,,GGT,GGT,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,13,GTG,,GTG,GTG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,14,AAC,,AAC,AAC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,15,AAA,,AAA,AAA,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,16,CAC,,CAC,CAC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,17,TCC,,TCC,TCC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,18,ACC,,ACC,ACC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,19,AGC,,AGC,AGC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,20,ATT,,ATT,ATT,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,21,GGA,,GGA,GGA,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,22,AAG,,AAG,AAG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,23,ATC,,ATC,ATC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,24,TGG,,TGG,TGG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,25,CTC,,CTC,CTC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,26,ACC,,,,,False
+GJB2,27,GTC,,GTC,GTC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,28,CTC,,CTC,CTC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,29,TTC,,TTC,TTC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,30,ATT,,ATT,ATT,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,31,TTT,,TTT,TTT,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,32,CGC,,CGC,CGC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,33,ATT,,ATT,ATT,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,34,ATG,,ATG,ATG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,35,ATC,,ATC,ATC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,36,CTC,,CTC,CTC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,37,GTT,,,,,False
+GJB2,38,GTG,,GTG,GTG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,39,GCT,,GCT,GCT,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,40,GCA,,,,,False
+GJB2,41,AAG,,AAG,AAG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,42,GAG,,GAG,GAG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,43,GTG,,GTG,GTG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,44,TGG,,TGG,TGG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,45,GGA,,GGA,GGA,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,46,GAT,,GAT,GAT,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,47,GAG,,GAG,GAG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,48,CAG,,CAG,CAG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,49,GCC,,GCC,GCC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,50,GAC,,GAC,GAC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,51,TTT,,TTT,TTT,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,52,GTC,,GTC,GTC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,53,TGC,,TGC,TGC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,54,AAC,,AAC,AAC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,55,ACC,,ACC,ACC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,56,CTG,,CTG,CTG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,57,CAG,,CAG,CAG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,58,CCA,,,,,False
+GJB2,59,GGC,,GGC,GGC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,60,TGC,,TGC,TGC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,61,AAG,,AAG,AAG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,62,AAC,,AAT,AAT,"parsimony (chimpanzee, gorilla, orangutan)",True
+GJB2,63,GTG,,GTG,GTG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,64,TGC,,TGC,TGC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,65,TAC,,,,,False
+GJB2,66,GAT,,GAT,GAT,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,67,CAC,,CAC,CAC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,68,TAC,,TAC,TAC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,69,TTC,,TTC,TTC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,70,CCC,,CCC,CCC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,71,ATC,,ATC,ATC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,72,TCC,,TCC,TCC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,73,CAC,,CAC,CAC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,74,ATC,,ATC,ATC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,75,CGG,,CGG,CGG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,76,CTA,,,,,False
+GJB2,77,TGG,,TGG,TGG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,78,GCC,,GCC,GCC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,79,CTG,,CTG,CTG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,80,CAG,,CAG,CAG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,81,CTG,,,,,False
+GJB2,82,ATC,,ATC,ATC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,83,TTC,,TTC,TTC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,84,GTG,,GTG,GTG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,85,TCC,,TCC,TCC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,86,ACG,,ACG,ACG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,87,CCA,,CCA,CCA,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,88,GCG,,GCG,GCG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,89,CTC,,CTC,CTC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,90,CTA,,CTA,CTA,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,91,GTG,,GTG,GTG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,92,GCC,,GCC,GCC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,93,ATG,,ATG,ATG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,94,CAC,,CAC,CAC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,95,GTG,,GTG,GTG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,96,GCC,,GCC,GCC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,97,TAC,,TAC,TAC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,98,CGG,,CGG,CGG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,99,AGA,,AGA,AGA,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,100,CAT,,CAT,CAT,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,101,GAG,,GAG,GAG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,102,AAG,,AAG,AAG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,103,AAG,,AAG,AAG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,104,AGG,,AGG,AGG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,105,AAG,,,,,False
+GJB2,106,TTC,,TTC,TTC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,107,ATC,,ATC,ATC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,108,AAG,,AAG,AAG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,109,GGG,,GGG,GGG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,110,GAG,,GAG,GAG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,111,ATA,,ATA,ATA,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,112,AAG,,AAG,AAG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,113,AGT,,AGT,AGT,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,114,GAA,,GAA,GAA,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,115,TTT,,TTT,TTT,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,116,AAG,,AAG,AAG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,117,GAC,,GAC,GAC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,118,ATC,,ATC,ATC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,119,GAG,,GAG,GAG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,120,GAG,,GAG,GAG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,121,ATC,,ATC,ATC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,122,AAA,,AAA,AAA,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,123,ACC,,ACC,ACC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,124,CAG,,CAG,CAG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,125,AAG,,AAG,AAG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,126,GTC,,GTC,GTC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,127,CGC,,CGC,CGC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,128,ATC,,ATC,ATC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,129,GAA,,GAA,GAA,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,130,GGC,,GGC,GGC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,131,TCC,,TCC,TCC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,132,CTG,,CTG,CTG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,133,TGG,,TGG,TGG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,134,TGG,,TGG,TGG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,135,ACC,,ACC,ACC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,136,TAC,,TAC,TAC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,137,ACA,,ACA,ACA,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,138,AGC,,AGC,AGC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,139,AGC,,AGC,AGC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB2,140,ATC,ATC,ATC,ATC,Ensembl EPO ancestor,False
+GJB2,141,TTC,TTC,TTC,TTC,Ensembl EPO ancestor,False
+GJB2,142,TTC,TTC,TTC,TTC,Ensembl EPO ancestor,False
+GJB2,143,CGG,CGG,CGG,CGG,Ensembl EPO ancestor,False
+GJB2,144,GTC,GTC,GTC,GTC,Ensembl EPO ancestor,False
+GJB2,145,ATC,ATC,ATC,ATC,Ensembl EPO ancestor,False
+GJB2,146,TTC,TTC,TTC,TTC,Ensembl EPO ancestor,False
+GJB2,147,GAA,GAA,GAA,GAA,Ensembl EPO ancestor,False
+GJB2,148,GCC,GCC,,GCC,Ensembl EPO ancestor,False
+GJB2,149,GCC,GCC,GCC,GCC,Ensembl EPO ancestor,False
+GJB2,150,TTC,TTC,TTC,TTC,Ensembl EPO ancestor,False
+GJB2,151,ATG,ATG,ATG,ATG,Ensembl EPO ancestor,False
+GJB2,152,TAC,TAC,TAC,TAC,Ensembl EPO ancestor,False
+GJB2,153,GTC,GTC,GTC,GTC,Ensembl EPO ancestor,False
+GJB2,154,TTC,TTC,TTC,TTC,Ensembl EPO ancestor,False
+GJB2,155,TAT,TAT,TAT,TAT,Ensembl EPO ancestor,False
+GJB2,156,GTC,GTC,GTC,GTC,Ensembl EPO ancestor,False
+GJB2,157,ATG,ATG,ATG,ATG,Ensembl EPO ancestor,False
+GJB2,158,TAC,TAC,TAC,TAC,Ensembl EPO ancestor,False
+GJB2,159,GAC,GAC,GAC,GAC,Ensembl EPO ancestor,False
+GJB2,160,GGC,GGC,GGC,GGC,Ensembl EPO ancestor,False
+GJB2,161,TTC,TTC,TTC,TTC,Ensembl EPO ancestor,False
+GJB2,162,TCC,TCC,TCC,TCC,Ensembl EPO ancestor,False
+GJB2,163,ATG,ATG,ATG,ATG,Ensembl EPO ancestor,False
+GJB2,164,CAG,CAG,CAG,CAG,Ensembl EPO ancestor,False
+GJB2,165,CGG,CGG,CGG,CGG,Ensembl EPO ancestor,False
+GJB2,166,CTG,CTG,CTG,CTG,Ensembl EPO ancestor,False
+GJB2,167,GTG,GTG,GTG,GTG,Ensembl EPO ancestor,False
+GJB2,168,AAG,AAG,AAG,AAG,Ensembl EPO ancestor,False
+GJB2,169,TGC,TGC,TGC,TGC,Ensembl EPO ancestor,False
+GJB2,170,AAC,,,,,False
+GJB2,171,GCC,GCC,GCC,GCC,Ensembl EPO ancestor,False
+GJB2,172,TGG,TGG,TGG,TGG,Ensembl EPO ancestor,False
+GJB2,173,CCT,CCT,CCT,CCT,Ensembl EPO ancestor,False
+GJB2,174,TGT,TGT,TGT,TGT,Ensembl EPO ancestor,False
+GJB2,175,CCC,CCC,CCC,CCC,Ensembl EPO ancestor,False
+GJB2,176,AAC,AAC,AAC,AAC,Ensembl EPO ancestor,False
+GJB2,177,ACT,ACT,ACT,ACT,Ensembl EPO ancestor,False
+GJB2,178,GTG,GTG,GTG,GTG,Ensembl EPO ancestor,False
+GJB2,179,GAC,GAC,GAC,GAC,Ensembl EPO ancestor,False
+GJB2,180,TGC,TGC,TGC,TGC,Ensembl EPO ancestor,False
+GJB2,181,TTT,TTT,TTT,TTT,Ensembl EPO ancestor,False
+GJB2,182,GTG,GTG,GTG,GTG,Ensembl EPO ancestor,False
+GJB2,183,TCC,TCC,TCC,TCC,Ensembl EPO ancestor,False
+GJB2,184,CGG,CGG,CGG,CGG,Ensembl EPO ancestor,False
+GJB2,185,CCC,CCC,CCC,CCC,Ensembl EPO ancestor,False
+GJB2,186,ACG,ACG,ACG,ACG,Ensembl EPO ancestor,False
+GJB2,187,GAG,GAG,GAG,GAG,Ensembl EPO ancestor,False
+GJB2,188,AAG,AAG,AAG,AAG,Ensembl EPO ancestor,False
+GJB2,189,ACT,ACT,ACT,ACT,Ensembl EPO ancestor,False
+GJB2,190,GTC,GTC,GTC,GTC,Ensembl EPO ancestor,False
+GJB2,191,TTC,TTC,TTC,TTC,Ensembl EPO ancestor,False
+GJB2,192,ACA,ACA,ACA,ACA,Ensembl EPO ancestor,False
+GJB2,193,GTG,GTG,GTG,GTG,Ensembl EPO ancestor,False
+GJB2,194,TTC,TTC,TTC,TTC,Ensembl EPO ancestor,False
+GJB2,195,ATG,ATG,ATG,ATG,Ensembl EPO ancestor,False
+GJB2,196,ATT,ATT,ATT,ATT,Ensembl EPO ancestor,False
+GJB2,197,GCA,GCA,GCA,GCA,Ensembl EPO ancestor,False
+GJB2,198,GTG,GTG,GTG,GTG,Ensembl EPO ancestor,False
+GJB2,199,TCT,TCT,TCT,TCT,Ensembl EPO ancestor,False
+GJB2,200,GGA,GGA,GGA,GGA,Ensembl EPO ancestor,False
+GJB2,201,ATT,ATT,ATT,ATT,Ensembl EPO ancestor,False
+GJB2,202,TGC,TGC,TGC,TGC,Ensembl EPO ancestor,False
+GJB2,203,ATC,ATC,ATC,ATC,Ensembl EPO ancestor,False
+GJB2,204,CTG,CTG,CTG,CTG,Ensembl EPO ancestor,False
+GJB2,205,CTG,CTG,CTG,CTG,Ensembl EPO ancestor,False
+GJB2,206,AAT,AAT,AAT,AAT,Ensembl EPO ancestor,False
+GJB2,207,GTC,GTC,GTC,GTC,Ensembl EPO ancestor,False
+GJB2,208,ACT,ACT,ACT,ACT,Ensembl EPO ancestor,False
+GJB2,209,GAA,GAA,GAA,GAA,Ensembl EPO ancestor,False
+GJB2,210,TTG,,,,,False
+GJB2,211,TGT,TGT,TGT,TGT,Ensembl EPO ancestor,False
+GJB2,212,TAT,TAT,TAT,TAT,Ensembl EPO ancestor,False
+GJB2,213,TTG,TTG,TTG,TTG,Ensembl EPO ancestor,False
+GJB2,214,CTA,CTA,CTA,CTA,Ensembl EPO ancestor,False
+GJB2,215,ATT,ATT,ATT,ATT,Ensembl EPO ancestor,False
+GJB2,216,AGA,AGA,AGA,AGA,Ensembl EPO ancestor,False
+GJB2,217,TAT,TAT,TAT,TAT,Ensembl EPO ancestor,False
+GJB2,218,TGT,TGT,TGT,TGT,Ensembl EPO ancestor,False
+GJB2,219,TCT,TCT,TCT,TCT,Ensembl EPO ancestor,False
+GJB2,220,GGG,GGG,GGG,GGG,Ensembl EPO ancestor,False
+GJB2,221,AAG,AAG,,AAG,Ensembl EPO ancestor,False
+GJB2,222,TCA,TCA,TCA,TCA,Ensembl EPO ancestor,False
+GJB2,223,AAA,AAA,AAA,AAA,Ensembl EPO ancestor,False
+GJB2,224,AAG,AAG,AAG,AAG,Ensembl EPO ancestor,False
+GJB2,225,CCA,CCA,CCA,CCA,Ensembl EPO ancestor,False
+GJB2,226,GTT,GTT,GTT,GTT,Ensembl EPO ancestor,False
+GJB6,1,ATG,ATG,ATG,ATG,Ensembl EPO ancestor,False
+GJB6,2,GAT,GAT,GAT,GAT,Ensembl EPO ancestor,False
+GJB6,3,TGG,TGG,TGG,TGG,Ensembl EPO ancestor,False
+GJB6,4,GGG,GGG,GGG,GGG,Ensembl EPO ancestor,False
+GJB6,5,ACG,ACC,ACC,ACC,Ensembl EPO ancestor,True
+GJB6,6,CTG,CTG,CTG,CTG,Ensembl EPO ancestor,False
+GJB6,7,CAC,CAC,CAC,CAC,Ensembl EPO ancestor,False
+GJB6,8,ACT,ACT,ACT,ACT,Ensembl EPO ancestor,False
+GJB6,9,TTC,TTC,TTC,TTC,Ensembl EPO ancestor,False
+GJB6,10,ATC,ATC,ATC,ATC,Ensembl EPO ancestor,False
+GJB6,11,GGG,,,,,False
+GJB6,12,GGT,GGT,GGT,GGT,Ensembl EPO ancestor,False
+GJB6,13,GTC,GTC,GTC,GTC,Ensembl EPO ancestor,False
+GJB6,14,AAC,AAC,AAC,AAC,Ensembl EPO ancestor,False
+GJB6,15,AAA,AAA,AAA,AAA,Ensembl EPO ancestor,False
+GJB6,16,CAC,CAC,CAC,CAC,Ensembl EPO ancestor,False
+GJB6,17,TCC,TCC,TCC,TCC,Ensembl EPO ancestor,False
+GJB6,18,ACC,ACC,ACC,ACC,Ensembl EPO ancestor,False
+GJB6,19,AGC,AGC,AGC,AGC,Ensembl EPO ancestor,False
+GJB6,20,ATC,ATC,ATC,ATC,Ensembl EPO ancestor,False
+GJB6,21,GGG,GGG,GGG,GGG,Ensembl EPO ancestor,False
+GJB6,22,AAG,AAG,AAG,AAG,Ensembl EPO ancestor,False
+GJB6,23,GTG,GTG,GTG,GTG,Ensembl EPO ancestor,False
+GJB6,24,TGG,TGG,TGG,TGG,Ensembl EPO ancestor,False
+GJB6,25,ATC,ATC,ATC,ATC,Ensembl EPO ancestor,False
+GJB6,26,ACA,ACA,ACA,ACA,Ensembl EPO ancestor,False
+GJB6,27,GTC,GTC,GTC,GTC,Ensembl EPO ancestor,False
+GJB6,28,ATC,ATC,ATC,ATC,Ensembl EPO ancestor,False
+GJB6,29,TTT,TTT,TTT,TTT,Ensembl EPO ancestor,False
+GJB6,30,ATT,ATT,ATT,ATT,Ensembl EPO ancestor,False
+GJB6,31,TTC,TTC,TTC,TTC,Ensembl EPO ancestor,False
+GJB6,32,CGA,CGA,CGA,CGA,Ensembl EPO ancestor,False
+GJB6,33,GTC,GTC,GTC,GTC,Ensembl EPO ancestor,False
+GJB6,34,ATG,ATG,ATG,ATG,Ensembl EPO ancestor,False
+GJB6,35,ATC,ATC,ATC,ATC,Ensembl EPO ancestor,False
+GJB6,36,CTC,CTC,CTC,CTC,Ensembl EPO ancestor,False
+GJB6,37,GTG,GTG,GTG,GTG,Ensembl EPO ancestor,False
+GJB6,38,GTG,GTG,GTG,GTG,Ensembl EPO ancestor,False
+GJB6,39,GCT,GCT,GCT,GCT,Ensembl EPO ancestor,False
+GJB6,40,GCC,GCC,GCC,GCC,Ensembl EPO ancestor,False
+GJB6,41,CAG,CAG,CAG,CAG,Ensembl EPO ancestor,False
+GJB6,42,GAA,GAA,,GAA,Ensembl EPO ancestor,False
+GJB6,43,GTG,GTG,GTG,GTG,Ensembl EPO ancestor,False
+GJB6,44,TGG,TGG,TGG,TGG,Ensembl EPO ancestor,False
+GJB6,45,GGT,GGT,GGT,GGT,Ensembl EPO ancestor,False
+GJB6,46,GAC,GAC,GAC,GAC,Ensembl EPO ancestor,False
+GJB6,47,GAG,GAG,GAG,GAG,Ensembl EPO ancestor,False
+GJB6,48,CAA,CAA,CAA,CAA,Ensembl EPO ancestor,False
+GJB6,49,GAG,GAG,GAG,GAG,Ensembl EPO ancestor,False
+GJB6,50,GAC,GAC,GAC,GAC,Ensembl EPO ancestor,False
+GJB6,51,TTC,TTC,TTC,TTC,Ensembl EPO ancestor,False
+GJB6,52,GTC,GTC,,GTC,Ensembl EPO ancestor,False
+GJB6,53,TGC,TGC,TGC,TGC,Ensembl EPO ancestor,False
+GJB6,54,AAC,AAC,AAC,AAC,Ensembl EPO ancestor,False
+GJB6,55,ACA,ACA,ACA,ACA,Ensembl EPO ancestor,False
+GJB6,56,CTG,CTG,CTG,CTG,Ensembl EPO ancestor,False
+GJB6,57,CAA,CAA,CAA,CAA,Ensembl EPO ancestor,False
+GJB6,58,CCG,CCG,CCG,CCG,Ensembl EPO ancestor,False
+GJB6,59,GGA,GGA,GGA,GGA,Ensembl EPO ancestor,False
+GJB6,60,TGC,TGC,TGC,TGC,Ensembl EPO ancestor,False
+GJB6,61,AAA,AAA,AAA,AAA,Ensembl EPO ancestor,False
+GJB6,62,AAT,AAT,AAT,AAT,Ensembl EPO ancestor,False
+GJB6,63,GTG,GTG,GTG,GTG,Ensembl EPO ancestor,False
+GJB6,64,TGC,TGC,TGC,TGC,Ensembl EPO ancestor,False
+GJB6,65,TAT,TAC,TAC,TAC,Ensembl EPO ancestor,True
+GJB6,66,GAC,GAC,GAC,GAC,Ensembl EPO ancestor,False
+GJB6,67,CAC,CAC,CAC,CAC,Ensembl EPO ancestor,False
+GJB6,68,TTT,TTT,TTT,TTT,Ensembl EPO ancestor,False
+GJB6,69,TTC,TTC,TTC,TTC,Ensembl EPO ancestor,False
+GJB6,70,CCG,CCG,,CCG,Ensembl EPO ancestor,False
+GJB6,71,GTG,GTG,GTG,GTG,Ensembl EPO ancestor,False
+GJB6,72,TCC,TCC,TCC,TCC,Ensembl EPO ancestor,False
+GJB6,73,CAC,CAC,CAC,CAC,Ensembl EPO ancestor,False
+GJB6,74,ATC,ATC,ATC,ATC,Ensembl EPO ancestor,False
+GJB6,75,CGG,CGG,CGG,CGG,Ensembl EPO ancestor,False
+GJB6,76,CTG,CTG,CTG,CTG,Ensembl EPO ancestor,False
+GJB6,77,TGG,TGG,TGG,TGG,Ensembl EPO ancestor,False
+GJB6,78,GCC,GCC,GCC,GCC,Ensembl EPO ancestor,False
+GJB6,79,CTC,CTC,CTC,CTC,Ensembl EPO ancestor,False
+GJB6,80,CAG,CAG,CAG,CAG,Ensembl EPO ancestor,False
+GJB6,81,CTG,CTG,CTG,CTG,Ensembl EPO ancestor,False
+GJB6,82,ATC,ATC,ATC,ATC,Ensembl EPO ancestor,False
+GJB6,83,TTC,TTC,TTC,TTC,Ensembl EPO ancestor,False
+GJB6,84,GTC,GTC,GTC,GTC,Ensembl EPO ancestor,False
+GJB6,85,TCC,TCC,TCC,TCC,Ensembl EPO ancestor,False
+GJB6,86,ACC,ACC,ACC,ACC,Ensembl EPO ancestor,False
+GJB6,87,CCA,CCA,CCA,CCA,Ensembl EPO ancestor,False
+GJB6,88,GCG,GCG,GCG,GCG,Ensembl EPO ancestor,False
+GJB6,89,CTG,CTG,CTG,CTG,Ensembl EPO ancestor,False
+GJB6,90,CTG,CTG,CTG,CTG,Ensembl EPO ancestor,False
+GJB6,91,GTG,GTG,GTG,GTG,Ensembl EPO ancestor,False
+GJB6,92,GCC,GCC,GCC,GCC,Ensembl EPO ancestor,False
+GJB6,93,ATG,ATG,ATG,ATG,Ensembl EPO ancestor,False
+GJB6,94,CAT,CAT,,CAT,Ensembl EPO ancestor,False
+GJB6,95,GTG,GTG,GTG,GTG,Ensembl EPO ancestor,False
+GJB6,96,GCC,GCC,GCC,GCC,Ensembl EPO ancestor,False
+GJB6,97,TAC,TAC,TAC,TAC,Ensembl EPO ancestor,False
+GJB6,98,TAC,TAC,TAC,TAC,Ensembl EPO ancestor,False
+GJB6,99,AGG,AGG,AGG,AGG,Ensembl EPO ancestor,False
+GJB6,100,CAC,CAC,CAC,CAC,Ensembl EPO ancestor,False
+GJB6,101,GAA,GAA,GAA,GAA,Ensembl EPO ancestor,False
+GJB6,102,ACC,ACC,ACC,ACC,Ensembl EPO ancestor,False
+GJB6,103,ACT,ACT,ACT,ACT,Ensembl EPO ancestor,False
+GJB6,104,CGC,CGC,CGC,CGC,Ensembl EPO ancestor,False
+GJB6,105,AAG,AAG,AAG,AAG,Ensembl EPO ancestor,False
+GJB6,106,TTC,TTC,TTC,TTC,Ensembl EPO ancestor,False
+GJB6,107,AGG,AGG,AGG,AGG,Ensembl EPO ancestor,False
+GJB6,108,CGA,CGA,CGA,CGA,Ensembl EPO ancestor,False
+GJB6,109,GGA,GGA,GGA,GGA,Ensembl EPO ancestor,False
+GJB6,110,GAG,GAG,GAG,GAG,Ensembl EPO ancestor,False
+GJB6,111,AAG,AAG,AAG,AAG,Ensembl EPO ancestor,False
+GJB6,112,AGG,AGG,AGG,AGG,Ensembl EPO ancestor,False
+GJB6,113,AAT,AAT,AAT,AAT,Ensembl EPO ancestor,False
+GJB6,114,GAT,GAT,,GAT,Ensembl EPO ancestor,False
+GJB6,115,TTC,TTC,TTC,TTC,Ensembl EPO ancestor,False
+GJB6,116,AAA,AAA,AAA,AAA,Ensembl EPO ancestor,False
+GJB6,117,GAC,GAC,GAC,GAC,Ensembl EPO ancestor,False
+GJB6,118,ATA,ATA,ATA,ATA,Ensembl EPO ancestor,False
+GJB6,119,GAG,GAG,GAG,GAG,Ensembl EPO ancestor,False
+GJB6,120,GAC,GAC,GAC,GAC,Ensembl EPO ancestor,False
+GJB6,121,ATT,ATT,ATT,ATT,Ensembl EPO ancestor,False
+GJB6,122,AAA,AAA,AAA,AAA,Ensembl EPO ancestor,False
+GJB6,123,AAG,AAG,AAG,AAG,Ensembl EPO ancestor,False
+GJB6,124,CAG,CAG,CAG,CAG,Ensembl EPO ancestor,False
+GJB6,125,AAG,AAG,AAG,AAG,Ensembl EPO ancestor,False
+GJB6,126,GTT,GTT,GTT,GTT,Ensembl EPO ancestor,False
+GJB6,127,CGG,CGG,CGG,CGG,Ensembl EPO ancestor,False
+GJB6,128,ATA,ATA,ATA,ATA,Ensembl EPO ancestor,False
+GJB6,129,GAG,GAG,GAG,GAG,Ensembl EPO ancestor,False
+GJB6,130,GGG,GGG,GGG,GGG,Ensembl EPO ancestor,False
+GJB6,131,TCG,TCG,TCG,TCG,Ensembl EPO ancestor,False
+GJB6,132,CTG,CTG,CTG,CTG,Ensembl EPO ancestor,False
+GJB6,133,TGG,TGG,TGG,TGG,Ensembl EPO ancestor,False
+GJB6,134,TGG,TGG,TGG,TGG,Ensembl EPO ancestor,False
+GJB6,135,ACG,ACG,,ACG,Ensembl EPO ancestor,False
+GJB6,136,TAC,TAC,TAC,TAC,Ensembl EPO ancestor,False
+GJB6,137,ACC,ACC,ACC,ACC,Ensembl EPO ancestor,False
+GJB6,138,AGC,AGC,AGC,AGC,Ensembl EPO ancestor,False
+GJB6,139,AGC,AGC,AGC,AGC,Ensembl EPO ancestor,False
+GJB6,140,ATC,,ATC,ATC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,141,TTT,,TTT,TTT,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,142,TTC,,TTC,TTC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,143,CGA,,CGA,CGA,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,144,ATC,,ATC,ATC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,145,ATC,,ATC,ATC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,146,TTT,,TTT,TTT,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,147,GAA,,GAA,GAA,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,148,GCA,,GCA,GCA,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,149,GCC,,GCC,GCC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,150,TTT,,TTT,TTT,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,151,ATG,,ATG,ATG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,152,TAT,,TAT,TAT,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,153,GTG,,GTG,GTG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,154,TTT,,TTT,TTT,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,155,TAC,,TAC,TAC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,156,TTC,,TTC,TTC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,157,CTT,,CTT,CTT,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,158,TAC,,TAC,TAC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,159,AAT,,AAT,AAT,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,160,GGG,,GGG,GGG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,161,TAC,,TAC,TAC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,162,CAC,,CAC,CAC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,163,CTG,,,,,False
+GJB6,164,CCC,,CCC,CCC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,165,TGG,,TGG,TGG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,166,GTG,,GTG,GTG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,167,TTG,,TTG,TTG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,168,AAA,,AAA,AAA,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,169,TGT,,TGT,TGT,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,170,GGG,,GGG,GGG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,171,ATT,,ATT,ATT,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,172,GAC,,GAC,GAC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,173,CCC,,CCC,CCC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,174,TGC,,TGC,TGC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,175,CCC,,CCC,CCC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,176,AAC,,AAC,AAC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,177,CTT,,CTT,CTT,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,178,GTT,,GTT,GTT,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,179,GAC,,GAC,GAC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,180,TGC,,TGC,TGC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,181,TTT,,TTT,TTT,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,182,ATT,,ATT,ATT,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,183,TCT,,TCT,TCT,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,184,AGG,,AGG,AGG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,185,CCA,,CCA,CCA,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,186,ACA,,ACA,ACA,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,187,GAG,,GAG,GAG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,188,AAG,,AAG,AAG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,189,ACC,,ACC,ACC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,190,GTG,,GTG,GTG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,191,TTT,,TTT,TTT,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,192,ACC,,,,,False
+GJB6,193,ATT,,ATT,ATT,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,194,TTT,,TTT,TTT,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,195,ATG,,ATG,ATG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,196,ATT,,ATT,ATT,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,197,TCT,,TCT,TCT,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,198,GCG,,GCG,GCG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,199,TCT,,TCT,TCT,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,200,GTG,,GTG,GTG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,201,ATT,,ATT,ATT,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,202,TGC,,TGC,TGC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,203,ATG,,ATG,ATG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,204,CTG,,,,,False
+GJB6,205,CTT,,CTT,CTT,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,206,AAC,,AAC,AAC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,207,GTG,,GTG,GTG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,208,GCA,,GCA,GCA,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,209,GAG,,GAG,GAG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,210,TTG,,TTG,TTG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,211,TGC,,TGC,TGC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,212,TAC,,TAC,TAC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,213,CTG,,CTG,CTG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,214,CTG,,CTG,CTG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,215,CTG,,CTG,CTG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,216,AAA,,AAA,AAA,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,217,GTG,,,,,False
+GJB6,218,TGT,,TGT,TGT,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,219,TTT,,TTT,TTT,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,220,AGG,,AGG,AGG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,221,AGA,,AGA,AGA,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,222,TCA,,TCA,TCA,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,223,AAG,,AAG,AAG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,224,AGA,,AGA,AGA,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,225,GCA,,GCA,GCA,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,226,CAG,,CAG,CAG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,227,ACG,,ACG,ACG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,228,CAA,,CAA,CAA,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,229,AAA,,AAA,AAA,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,230,AAT,,AAT,AAT,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,231,CAC,,CAC,CAC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,232,CCC,,CCC,CCC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,233,AAT,,AAT,AAT,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,234,CAT,,CAT,CAT,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,235,GCC,,GCC,GCC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,236,CTA,,CTA,CTA,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,237,AAG,,AAG,AAG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,238,GAG,,GAG,GAG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,239,AGT,,AGT,AGT,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,240,AAG,,AAG,AAG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,241,CAG,,CAG,CAG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,242,AAT,,AAT,AAT,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,243,GAA,,GAA,GAA,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,244,ATG,,ATG,ATG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,245,AAT,,AAT,AAT,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,246,GAG,,GAG,GAG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,247,CTG,,CTG,CTG,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,248,ATT,,ATT,ATT,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,249,TCA,,TCA,TCA,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,250,GAT,,GAT,GAT,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,251,AGT,,AGT,AGT,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,252,GGT,,GGT,GGT,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,253,CAA,,CAA,CAA,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,254,AAT,,AAT,AAT,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,255,GCA,,GCA,GCA,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,256,ATC,,ATC,ATC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,257,ACA,,,,,False
+GJB6,258,GGT,,GGT,GGT,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,259,TTC,,TTC,TTC,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,260,CCA,,CCA,CCA,"parsimony (chimpanzee, gorilla, orangutan)",False
+GJB6,261,AGC,,AGC,AGC,"parsimony (chimpanzee, gorilla, orangutan)",False

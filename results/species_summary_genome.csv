@@ -1,0 +1,49 @@
+gene,species,label,clade,primate,codons_aligned,aa_identity_pct,codon_identity_pct,synonymous_differences,amino_acid_differences,no_aligned_codon
+GJB2,gorilla_gorilla,gorilla,great apes,True,226,100.0,99.1,2,0,0
+GJB2,pan_paniscus,bonobo,great apes,True,226,100.0,98.2,4,0,0
+GJB2,pan_troglodytes,chimpanzee,great apes,True,226,100.0,97.8,5,0,0
+GJB2,pongo_abelii,orangutan,great apes,True,226,99.1,95.6,8,2,0
+GJB2,nomascus_leucogenys,gibbon,gibbons,True,219,100.0,96.3,8,0,7
+GJB2,cercocebus_atys,sooty mangabey,Old World monkeys,True,226,98.2,92.9,12,4,0
+GJB2,mandrillus_leucophaeus,drill,Old World monkeys,True,226,98.2,92.5,13,4,0
+GJB2,papio_anubis,olive baboon,Old World monkeys,True,226,98.2,92.5,13,4,0
+GJB2,macaca_nemestrina,pig-tailed macaque,Old World monkeys,True,226,98.2,91.6,15,4,0
+GJB2,macaca_fascicularis,crab-eating macaque,Old World monkeys,True,226,98.2,91.2,16,4,0
+GJB2,macaca_mulatta,rhesus macaque,Old World monkeys,True,226,98.2,91.2,16,4,0
+GJB2,chlorocebus_sabaeus,green monkey,Old World monkeys,True,226,96.9,90.7,14,7,0
+GJB2,rhinopithecus_bieti,black snub-nosed monkey,Old World monkeys,True,226,99.1,89.4,22,2,0
+GJB2,rhinopithecus_roxellana,golden snub-nosed monkey,Old World monkeys,True,226,99.1,89.4,22,2,0
+GJB2,saimiri_boliviensis_boliviensis,squirrel monkey,New World monkeys,True,226,96.9,88.5,19,7,0
+GJB2,aotus_nancymaae,owl monkey,New World monkeys,True,226,97.3,87.2,23,6,0
+GJB2,callithrix_jacchus,marmoset,New World monkeys,True,226,96.9,87.2,22,7,0
+GJB2,cebus_imitator,capuchin,New World monkeys,True,226,96.9,86.7,23,7,0
+GJB2,carlito_syrichta,tarsier,tarsiers,True,226,96.0,60.6,80,9,0
+GJB2,propithecus_coquereli,sifaka,strepsirrhines,True,226,96.9,78.8,41,7,0
+GJB2,prolemur_simus,bamboo lemur,strepsirrhines,True,226,98.2,76.1,50,4,0
+GJB2,microcebus_murinus,mouse lemur,strepsirrhines,True,226,98.2,74.3,54,4,0
+GJB2,otolemur_garnettii,galago,strepsirrhines,True,226,96.0,73.9,50,9,0
+GJB2,mus_musculus,mouse,outgroup,False,226,92.9,65.0,63,16,0
+GJB6,pan_troglodytes,chimpanzee,great apes,True,261,100.0,98.1,5,0,0
+GJB6,gorilla_gorilla,gorilla,great apes,True,261,100.0,97.7,6,0,0
+GJB6,pan_paniscus,bonobo,great apes,True,261,100.0,97.7,6,0,0
+GJB6,pongo_abelii,orangutan,great apes,True,261,99.6,96.9,7,1,0
+GJB6,nomascus_leucogenys,gibbon,gibbons,True,261,98.9,95.0,10,3,0
+GJB6,macaca_mulatta,rhesus macaque,Old World monkeys,True,260,97.7,89.2,22,6,1
+GJB6,macaca_fascicularis,crab-eating macaque,Old World monkeys,True,261,97.3,88.9,22,7,0
+GJB6,macaca_nemestrina,pig-tailed macaque,Old World monkeys,True,261,97.3,88.5,23,7,0
+GJB6,papio_anubis,olive baboon,Old World monkeys,True,261,97.3,88.5,23,7,0
+GJB6,cercocebus_atys,sooty mangabey,Old World monkeys,True,261,96.9,88.1,23,8,0
+GJB6,mandrillus_leucophaeus,drill,Old World monkeys,True,261,96.9,87.7,24,8,0
+GJB6,rhinopithecus_bieti,black snub-nosed monkey,Old World monkeys,True,261,97.3,87.4,26,7,0
+GJB6,rhinopithecus_roxellana,golden snub-nosed monkey,Old World monkeys,True,261,97.3,87.0,27,7,0
+GJB6,chlorocebus_sabaeus,green monkey,Old World monkeys,True,261,96.9,86.6,27,8,0
+GJB6,aotus_nancymaae,owl monkey,New World monkeys,True,261,96.6,85.8,28,9,0
+GJB6,cebus_imitator,capuchin,New World monkeys,True,261,95.4,85.8,25,12,0
+GJB6,callithrix_jacchus,marmoset,New World monkeys,True,261,95.4,84.7,28,12,0
+GJB6,saimiri_boliviensis_boliviensis,squirrel monkey,New World monkeys,True,261,95.4,83.9,30,12,0
+GJB6,carlito_syrichta,tarsier,tarsiers,True,261,88.1,50.6,98,31,0
+GJB6,prolemur_simus,bamboo lemur,strepsirrhines,True,261,96.6,77.0,51,9,0
+GJB6,otolemur_garnettii,galago,strepsirrhines,True,261,97.7,76.2,56,6,0
+GJB6,propithecus_coquereli,sifaka,strepsirrhines,True,261,96.6,75.9,54,9,0
+GJB6,microcebus_murinus,mouse lemur,strepsirrhines,True,261,97.7,66.7,81,6,0
+GJB6,mus_musculus,mouse,outgroup,False,261,95.4,60.5,91,12,0
