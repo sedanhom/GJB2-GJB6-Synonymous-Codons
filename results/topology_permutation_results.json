@@ -1,0 +1,60 @@
+{
+  "GJB2": {
+    "obs_rare": {
+      "TM": 10,
+      "E": 1,
+      "C": 7
+    },
+    "exp_rare": {
+      "TM": 9.48,
+      "E": 3.19,
+      "C": 5.33
+    },
+    "obs_pref": {
+      "TM": 38,
+      "E": 45,
+      "C": 39
+    },
+    "exp_pref": {
+      "TM": 43.65,
+      "E": 36.94,
+      "C": 41.41
+    },
+    "p_rare_overall": 0.219,
+    "p_pref_overall": 0.018,
+    "p_pref_bonferroni": 0.07,
+    "p_pref_E_two_sided": 0.006,
+    "obs_rare_56_80": 1,
+    "exp_rare_56_80": 1.87,
+    "p_rare_56_80": 0.61
+  },
+  "GJB6": {
+    "obs_rare": {
+      "TM": 6,
+      "E": 9,
+      "C": 13
+    },
+    "exp_rare": {
+      "TM": 9.14,
+      "E": 7.4,
+      "C": 11.46
+    },
+    "obs_pref": {
+      "TM": 41,
+      "E": 34,
+      "C": 50
+    },
+    "exp_pref": {
+      "TM": 39.41,
+      "E": 34.99,
+      "C": 50.6
+    },
+    "p_rare_overall": 0.31,
+    "p_pref_overall": 0.868,
+    "p_pref_bonferroni": 1.0,
+    "p_pref_E_two_sided": 0.868,
+    "obs_rare_56_80": 4,
+    "exp_rare_56_80": 3.32,
+    "p_rare_56_80": 0.72
+  }
+}

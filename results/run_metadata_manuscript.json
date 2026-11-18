@@ -1,0 +1,13 @@
+{
+  "manuscript_version": "MGG_submission_v1.1.0",
+  "timestamp": "2026-11-18T09:32:13.957570",
+  "software": {
+    "python": "3.13.18",
+    "numpy": "2.4.6",
+    "pandas": "2.2.3",
+    "scipy": "1.16.3",
+    "biopython": "1.88",
+    "ViennaRNA": "2.7.2",
+    "matplotlib": "3.10.0"
+  }
+}
