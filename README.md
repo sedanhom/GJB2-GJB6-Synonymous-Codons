@@ -1,6 +1,6 @@
 # Codon architecture of GJB2 and GJB6 and a complete map of their synonymous alternatives
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24305170.svg)](https://doi.org/10.5281/zenodo.24305170)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24340409.svg)](https://doi.org/10.5281/zenodo.24340409)
 
 Analysis code and output tables for:
 Homurlu, S.N.; Altungöz, O. Codon Architecture of the Paralogous Connexin Genes GJB2 and GJB6 and a Complete Map of Their Synonymous Alternatives at the DFNB1 Locus. Submitted to Molecular Genetics and Genomics, 2026.
@@ -44,4 +44,4 @@ The NCBI Entrez e-mail address in Cell 2 is used only if the RefSeq records are 
 Code: MIT License. Output tables and figures: CC BY 4.0, except the SpliceAI scores (results/SpliceAI_GRCh38_1130.csv, the SpliceAI columns of Online Resources 1 and 2 and input/SpliceAI_CADDv1.7_GRCh38_952SNV.csv), which derive from the SpliceAI models and the CADD annotation and are provided for academic and non-commercial use under their respective terms.
 
 ## Citation
-Please cite the article above and this archive: Homurlu, S.N.; Altungöz, O. Analysis code and data for: Codon architecture of the paralogous connexin genes GJB2 and GJB6 and a complete map of their synonymous alternatives (v1.2.0). Zenodo, 2026. https://doi.org/10.5281/zenodo.24305170
+Please cite the article above and this archive: Homurlu, S.N.; Altungöz, O. Analysis code and data for: Codon architecture of the paralogous connexin genes GJB2 and GJB6 and a complete map of their synonymous alternatives (v1.2.0). Zenodo, 2026. https://doi.org/10.5281/zenodo.24340409
